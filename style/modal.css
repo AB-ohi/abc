@@ -1,0 +1,88 @@
+.background-style{
+    background-color: #eb57570d;
+    padding: 30px;
+    height: auto;
+}
+.border{
+    border: 1px solid orange !important;
+}
+.datel{
+    font-weight: 600;
+    font-size: 25px;
+}
+.amount{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 25px;
+}
+.price{
+    height: 130px;
+    width: 130px;
+    background-color: #ffffff;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    font-weight: 700;
+    font-size: 16px;
+}
+.price p{
+    width: 100px;
+}
+.list-section{
+    display: flex;
+    justify-content: space-around;
+}
+
+.list-section ul{
+    font-weight: 400;
+    font-size: 16px;
+    color: #585858;
+}
+#basic-amount{
+    color: rgba(3, 163, 10, 1);
+    
+}
+#pro-amount{
+    color:rgba(242, 137, 39, 1)
+
+}
+#contact-amount{
+    color: rgba(235, 87, 87, 1);
+}
+
+.padding{
+    padding: 30px;
+    text-align: center;
+}
+.padding img{
+    border-radius: 16px;
+}
+
+.padding h3{
+    margin-top: 25px;
+    font-size: 25px;
+    line-height: 29px;
+}
+
+.padding p{
+    margin-top: 16px;
+    font-size: 16px;
+    line-height: 26px;
+    color: #585858;
+}
+
+.modal-size{
+    height: 700px !important;
+    width: 1200px !important;
+    text-align: center;
+}
+.modal-pojition{
+    /* margin: 0 !important; */
+    width: 5000px !important
+    /* display: flex; */
+}
+.modal-aria{
+    display: flex;
+}
